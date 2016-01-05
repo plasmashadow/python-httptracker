@@ -1,4 +1,4 @@
-##HttpTracker
+##python-httptracker
 
 A Bittorrent Http Tracking protocol client
 
